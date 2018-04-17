@@ -1,0 +1,10 @@
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\bin\Debug\MultiThreadingTest.exe.config
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\bin\Debug\MultiThreadingTest.exe
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\bin\Debug\MultiThreadingTest.pdb
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.Charting.resources
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.Properties.Resources.resources
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.csproj.GenerateResource.cache
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.exe
+c:\users\user\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\MultiThreadingTest.pdb
